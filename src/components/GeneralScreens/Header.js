@@ -39,7 +39,7 @@ const Header = () => {
 
                 <Link to="/" className="logo">
                     <h5>
-                        MERN BLOG
+                        Hello BLOG
 
                     </h5>
                 </Link>
